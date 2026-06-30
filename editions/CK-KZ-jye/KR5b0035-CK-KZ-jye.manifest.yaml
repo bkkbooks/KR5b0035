@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5b0035/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5b0035/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太一救苦護身妙經
+  date: '2015-08-28 23:47:48.094286'
+  source:
+    repository: kanripo
+    path: KR5b0035
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0035_000-CK-KZ-jye.yaml, hash: 'sha256:74f6d2b4752deca7b74dabbb78946a9d46608bb53c2470dcd9b0f31b54b820b5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0035_000-CK-KZ-jye.markers.yaml, hash: 'sha256:e669b45697925d4e6e075bf7c3f29e254642583b93f89713badeab28019756f5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0035_CK-KZ_01p082a
+    span:
+    - body
+    - 0
+    - 687
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:9230446759cdeba931d355acf8e1e3d0294ae6aa98caffa5ad8e717f5fc5f39f
