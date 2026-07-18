@@ -807,6 +807,7 @@ markers:
   - {type: variant, offset: 1609, length: 9, content: 太一救苦護身妙經終, CK-KZ-jye: ''}
   - {type: variant, offset: 1609, length: 9, content: 太一救苦護身妙經終, YP-C: ''}
   - {type: punctuation, offset: 1617, content: (, id: KR5b0035_krp_000-bkkpn1}
+  - {type: voice, offset: 1617, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1618, content: ), id: KR5b0035_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 1618, content: '
 
@@ -846,4 +847,4 @@ markers:
 
       ', id: KR5b0035_krp_000-bkkkrnewl132}
   back: []
-hash: sha256:03c35cf4729b106b1c198442379e5cb35450c76b1b6f5e3f4372cc0295e0c882
+hash: sha256:69d100f9b4d7aeea4ff26e66707c66d8fff04123f13bfdfe0b2e9fe37ebe5eff
